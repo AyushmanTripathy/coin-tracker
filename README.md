@@ -4,4 +4,6 @@
 
 crypto-currency tracker made with ❤ and svelte kit <br>
 
+A web app for visualizing crypto-currency at real time <br>
+
 [SITE](https://coin-tracker-app.netlify.app) live!
